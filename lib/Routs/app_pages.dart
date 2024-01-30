@@ -13,12 +13,14 @@ class AppPages {
 
     GetPage(
         name: Routs.LOGINSCREEN,
-        page: ()=>LoginScreen()
+        page: ()=>LoginScreen(),
+        binding: LoginScreenBinding()
     ),
 
     GetPage(
         name: Routs.REGISTRATIONSCREEN,
-        page: ()=>RegistrationScreen()
+        page: ()=>RegistrationScreen(),
+        binding: RegistrationScreenBinding()
     ),
 
     GetPage(

@@ -7,4 +7,6 @@ class TextHelper {
   static const h4 = TextStyle(color: Colors.black,fontSize: 26);
   static const h5 = TextStyle(color: Colors.black,fontSize: 24);
   static const h6 = TextStyle(color: Colors.black,fontSize: 22);
+  static const h7 = TextStyle(color: Colors.black,fontSize: 18);
+  static const h8 = TextStyle(color: Colors.black,fontSize: 15);
 }

@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -11,12 +10,17 @@ class LoginScreenController extends GetxController
 
   TextEditingController emailController = TextEditingController();
   TextEditingController passController = TextEditingController();
-  TextEditingController CpassController = TextEditingController();
+
 
 }
 class RegistrationScreenController extends GetxController
 {
 
+  var keyss = GlobalKey<FormState>();
+
+  TextEditingController emailController = TextEditingController();
+  TextEditingController passController = TextEditingController();
+  TextEditingController CpassController = TextEditingController();
 
 }
 

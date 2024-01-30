@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061517609461",
+    "project_id": "assignment-1ecbe",
+    "storage_bucket": "assignment-1ecbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061517609461:android:d23f5ac1becfcf6730f8bc",
+        "android_client_info": {
+          "package_name": "com.kketann.firebase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy2Vz0xvNmBGnq5RWbCCIKc-52CxJiV2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
